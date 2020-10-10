@@ -22,5 +22,8 @@ npm run build
 npm run build --report
 ```
 
+final interface:
+https://github.com/Lily-0925/online-mall-web/blob/master/static/result.PNG
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 >>>>>>> updated
